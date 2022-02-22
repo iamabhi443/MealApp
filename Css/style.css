@@ -3,7 +3,7 @@ body{
     margin:0;
     padding: 0;
     box-sizing: border-box;
-    background-image: url("/assets/meals.jpeg");
+    background-image: url("https://b.zmtcdn.com/web_assets/81f3ff974d82520780078ba1cfbd453a1583259680.png");
 }
 
 /* main heading */
@@ -78,7 +78,7 @@ body > #searchBar{
     width: 30%;
     overflow: visible;
     background-color:black;
-    border: black solid 2px;
+    /* border: black solid 2px; */
 }
 
 #searchBar ul li{
