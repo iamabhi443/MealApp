@@ -3,7 +3,7 @@ body{
     margin:0;
     padding: 0;
     box-sizing: border-box;
-    background-image: url("/assets/meals.avif");
+    background-image: url("/assets/meals.jpeg");
 }
 
 /* main heading */
@@ -125,7 +125,7 @@ body > #searchBar{
     flex-flow:nowrap;
     width:100%;
     justify-content: space-evenly;
-    background-color:rgb(102, 102, 119);
+    background-color:rgb(121, 121, 229);
     color: whitesmoke;
     top: 40%;
 }
